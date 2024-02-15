@@ -42,10 +42,10 @@ Currently the tests are run in such a way that first it creates a build for your
 ```typescript
 const config: PlaywrightTestConfig = {
     ...
-	webServer: {
-		command: 'npm run build && npm run preview', // change this to the command you want to run for serving your app
-		port: 4173 // update the port accordingly
-	},
-	...
+    webServer: {
+        command: 'npm run build && npm run preview', // change this to the command you want to run for serving your app
+        port: 4173 // update the port accordingly
+    },
+    ...
 };
 ```
