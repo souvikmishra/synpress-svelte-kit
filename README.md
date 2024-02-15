@@ -7,6 +7,7 @@ If you're here I am assuming you know what all three things I am using in this e
 - [Sveltekit](https://kit.svelte.dev/)
 - [Playwright](https://playwright.dev/)
 - [Web3Onboard](https://onboard.blocknative.com/)
+- [Synpress](https://synpress.io/)
 
 ```bash
 # clone the project
